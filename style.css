@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Satisfy&family=Smooch&family=Titillium+Web:ital,wght@1,200&display=swap');
+
+
+a.nav-link {
+				color: pink;								
+}
+
+button.navbar-toggler {
+				color: pink;
+				}
+				
+
+.contain {		
+    width: 100%;
+	   border: 1px solid pink;
+				background-color: pink;
+				height: 500px;		
+				display: inline-block;			
+}
+
+.header-div {
+				display: inline-block;
+}
+
+.img-div { 
+position: absolute;  
+			 left: 70px;		
+ }
+			 
+.material-symbols-outlined, #prd {
+				color: #ff1694;			
+}		
+ 
+ 
+#our {
+				color: black;
+				font-size: 40px;
+}  
+
+p.head {
+				color: white;
+				font-family: 'Courgette', cursive;
+}
+
+h1 {				  		 
+    color: white;
+				font-size: 60px;
+				font-family: 'Courgette', cursive;
+}
+
+.explore {
+    color: white;
+    border: 1px solid white;
+				text-decoration: none;
+				padding: 5px;
+				margin: 10px;
+				background: transparent;
+		  	font-family: 'Courgette', cursive;  		
+}
+
+.explore:hover {
+				background-color: white;
+				color: pink;			
+}
+
+#features {
+				background-color: white;
+				border: 1px solid white;
+				box-sizing: border-box;
+				display: inline-block;
+				text-align: center;
+				margin: 60px;
+}				padding: 20px;
+
+
+.each-features {
+    margin: 10px;
+				padding: 10px;
+				color: black;
+}
+
+.ft-p {
+			opacity: 0.3;
+}
+
+.products {
+				background-color: lightgrey;
+				text-align: center;
+}
+
+.search-link {
+				background: transparent;
+				color: black;
+				text-decoration: none;
+				border: 1px solid black;
+				margin: 10px;
+				padding: 6px;								
+				font-family: 'Satisfy', cursive;
+				font-size: 10px;
+				
+}
+
+.search-link:hover {
+				background-color: black;
+				color: pink;
+				border: 1px solid black;
+}
+
+.search-links {
+text-align: center;			
+}
+
+.btn {
+				background-color: #ff1694;
+				}
+
+.btn:hover {
+				background-color: black;
+				color: pink;
+}			
+
+
+input[type="text"] {				
+				height: 30px;				
+				color: white;	
+				margin-top: 15px;
+				border: none;			
+}
+
+input[type="text"]:focus {
+  outline: none;
+  background-color: #ff1694;
+}
+
+::placeholder {
+				font-family: 'Satisfy', cursive;
+				opacity: 0.6;
+}
+
+
+
+.product-card { 
+    display: inline-block;   
+				background-color: white;
+				border: 1px solid white;
+				width: 150px;
+				height: 180px;				
+				box-shadow: 0 0 10px -15px;
+				margin: 10px;			
+}
+
+.product-text { 
+    text-align: left;      
+    font-size: 13px;	
+    font-family: 'Satisfy', cursive;
+}
+
+.pricing {
+    text-align: right;    	        			
+				font-size: 15px;			
+				font-family: 'Courgette', cursive;
+				margin: -30px 15px;
+}
+
+.hide {
+				display: none;
+}
